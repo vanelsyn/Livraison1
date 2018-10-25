@@ -46,7 +46,7 @@ Java(TM) SE Runtime Environment (build 1.8.0_181)
 
 Veuillez suivre les indications suivantes:
 
-1) Rendez vous dans le dossier 'CMR-20181010\Vanel_Frank_T\Livraison1\doc'.
+1) Rendez vous dans le dossier 'Livraison1\doc'.
 
 2) Double cliquez sur 'index.html'.
 
